@@ -44,7 +44,7 @@ int main() {
         }
     }
 
-    // PADRE
+    // PADRE, uso de IA en esta parte del padre para acumular las sumas parciales de los hijos
     int suma;
 
     for (int i = 0; i < 3; i++) {
